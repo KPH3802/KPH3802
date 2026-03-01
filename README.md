@@ -33,4 +33,9 @@ I work in enterprise firewall operations and build Python-based systems that col
 
 **Data Sources:** SEC EDGAR · FMP · EIA · NOAA · FRED · Yahoo Finance · Fintel · IVolatility
 
-**Certifications:** CompTIA Security+ · CompTIA SecurityAI+ (in progress)
+**Certifications:** CompTIA Security+ · CompTIA SecAI+
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--heaney-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kevin-heaney/)
+[![Medium](https://img.shields.io/badge/Medium-@KPH3802-000000?style=flat&logo=medium)](https://medium.com/@KPH3802)
